@@ -33,4 +33,4 @@ When a flavor is excluded, every pick that included it stops counting, for both 
 ## Data
 
 - `src/data/flavors.json`: 52 US flavors from https://www.monsterenergy.com/en-us/energy-drinks/ (scraped 2026-10-09).
-- `public/cans/<id>.png`: can image for each flavor, 148x370 PNG with transparency.
+- `public/cans/<id>.webp`: can image for each flavor, 148x370 WebP (quality 85) with transparency. Converted from the source PNGs, which `sourceImage` in the JSON links to.

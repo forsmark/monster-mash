@@ -4,7 +4,7 @@
     "name": "Original Green \"OG\"",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/original-green.png",
+    "image": "cans/original-green.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/f6dadd8b-12d1-4318-9167-1b83e9caa9c9.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/original-green/"
   },
@@ -13,7 +13,7 @@
     "name": "Zero Sugar",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/zero-sugar.png",
+    "image": "cans/zero-sugar.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/9f180ff9-4af0-4f17-b0f0-574906dc6189.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/zero-sugar/"
   },
@@ -22,7 +22,7 @@
     "name": "Vanilla Shot",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/monster-energy-vanilla-shot.png",
+    "image": "cans/monster-energy-vanilla-shot.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/9c2482ac-c1cb-4b57-b37a-ad87b50e4073.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/monster-energy-vanilla-shot/"
   },
@@ -31,7 +31,7 @@
     "name": "Zero Sugar Vanilla Shot",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/zero-sugar-vanilla-shot.png",
+    "image": "cans/zero-sugar-vanilla-shot.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/2fb52a6a-782b-427e-9f36-c0c43bc32da5.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/zero-sugar-vanilla-shot/"
   },
@@ -40,7 +40,7 @@
     "name": "Lando Norris",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/lando-norris.png",
+    "image": "cans/lando-norris.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/637e8b02-7c99-468c-ab65-ab90cbd0ecfb.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/lando-norris/"
   },
@@ -49,7 +49,7 @@
     "name": "Strawberry Shot",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/strawberry-shot.png",
+    "image": "cans/strawberry-shot.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/3f8ba93e-6ec9-4ad5-80a3-49a267008905.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/strawberry-shot/"
   },
@@ -58,7 +58,7 @@
     "name": "Zero Sugar Strawberry Shot",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/zero-sugar-strawberry-shot.png",
+    "image": "cans/zero-sugar-strawberry-shot.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/96edacb8-96cf-4dac-ab53-5aa098d020aa.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/zero-sugar-strawberry-shot/"
   },
@@ -67,7 +67,7 @@
     "name": "Electric Blue",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/electric-blue.png",
+    "image": "cans/electric-blue.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/80f7af64-6bf0-4169-a1b0-25bdbc320368.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/electric-blue/"
   },
@@ -76,7 +76,7 @@
     "name": "Orange Dreamsicle",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/orange-dreamsicle.png",
+    "image": "cans/orange-dreamsicle.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/265292f7-a055-4fbf-900d-e8d99cfbca65.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/orange-dreamsicle/"
   },
@@ -85,7 +85,7 @@
     "name": "Lo-Carb",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/lo-carb.png",
+    "image": "cans/lo-carb.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/01a055b8-1d59-4292-ae91-5e726aa8c807.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/lo-carb/"
   },
@@ -94,7 +94,7 @@
     "name": "Reserve Orange Dreamsicle",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/reserve-orange-dreamsicle.png",
+    "image": "cans/reserve-orange-dreamsicle.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/f49e4d7c-3d6f-4c5f-8ef2-8546f8ae423d.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/reserve-orange-dreamsicle/"
   },
@@ -103,7 +103,7 @@
     "name": "Reserve Peaches n' Crème",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/reserve-peaches-n-creme.png",
+    "image": "cans/reserve-peaches-n-creme.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/2012ee00-b3fa-43d2-87b5-10239b908324.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/reserve-peaches-n-creme/"
   },
@@ -112,7 +112,7 @@
     "name": "Nitro Super Dry",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/nitro-super-dry.png",
+    "image": "cans/nitro-super-dry.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/4b6857e5-1f36-445e-bfdb-b8c73829b628.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/nitro-super-dry/"
   },
@@ -121,7 +121,7 @@
     "name": "Super-Premium Import",
     "line": "Monster Energy",
     "lineKey": "monster",
-    "image": "cans/import.png",
+    "image": "cans/import.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/6975b45a-9717-48d1-977c-59fbb1df1bf1.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/monster-energy/import/"
   },
@@ -130,7 +130,7 @@
     "name": "Zero Ultra \"White Monster\"",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/zero-ultra.png",
+    "image": "cans/zero-ultra.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/3214808a-90a7-474d-9cc5-7f495eae23de.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/zero-ultra/"
   },
@@ -139,7 +139,7 @@
     "name": "Ultra Red White Blue Razz",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-red-white-blue-razz.png",
+    "image": "cans/ultra-red-white-blue-razz.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/b50fd57d-fb73-407c-9451-7e8769ff9d98.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-red-white-blue-razz/"
   },
@@ -148,7 +148,7 @@
     "name": "Ultra Punk Punch",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-punk-punch.png",
+    "image": "cans/ultra-punk-punch.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/2fe8f57f-685c-498e-8f1a-627aa46cfe48.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-punk-punch/"
   },
@@ -157,7 +157,7 @@
     "name": "Ultra Blue Hawaiian",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-blue-hawaiian.png",
+    "image": "cans/ultra-blue-hawaiian.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/f3cf4313-fb7c-418b-93ad-b17df387e3f9.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-blue-hawaiian/"
   },
@@ -166,7 +166,7 @@
     "name": "Ultra Vice Guava",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-vice-guava.png",
+    "image": "cans/ultra-vice-guava.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/33fb96c4-82ed-4776-ae04-a521e53cbe3b.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-vice-guava/"
   },
@@ -175,7 +175,7 @@
     "name": "Ultra Wild Passion",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-wild-passion.png",
+    "image": "cans/ultra-wild-passion.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/60b7e3d6-f887-4a90-a36e-490a6e9c8d40.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-wild-passion/"
   },
@@ -184,7 +184,7 @@
     "name": "Ultra Strawberry Dreams",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-strawberry-dreams.png",
+    "image": "cans/ultra-strawberry-dreams.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/38df0f7d-c4bf-4d19-ae38-73dbd1f07b6f.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-strawberry-dreams/"
   },
@@ -193,7 +193,7 @@
     "name": "Ultra Sunrise",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-sunrise.png",
+    "image": "cans/ultra-sunrise.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/80cf306a-2c14-441d-90c0-d17adbe444ab.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-sunrise/"
   },
@@ -202,7 +202,7 @@
     "name": "Ultra Violet",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-violet.png",
+    "image": "cans/ultra-violet.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/1e2a823a-d791-4216-acfd-6216674706fe.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-violet/"
   },
@@ -211,7 +211,7 @@
     "name": "Ultra Peachy Keen",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-peachy-keen.png",
+    "image": "cans/ultra-peachy-keen.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/89679627-80ee-4f62-832f-472c9fb6b317.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-peachy-keen/"
   },
@@ -220,7 +220,7 @@
     "name": "Ultra Fantasy Ruby Red",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-fantasy-ruby-red.png",
+    "image": "cans/ultra-fantasy-ruby-red.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/38ddb70e-3f4e-4010-ad90-b56a27488c1f.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-fantasy-ruby-red/"
   },
@@ -229,7 +229,7 @@
     "name": "Ultra Paradise",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-paradise.png",
+    "image": "cans/ultra-paradise.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/87c72c5f-4b37-495b-818f-3619cecbadf2.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-paradise/"
   },
@@ -238,7 +238,7 @@
     "name": "Ultra Fiesta Mango",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-fiesta-mango.png",
+    "image": "cans/ultra-fiesta-mango.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/57ff995a-ce1c-42d8-adbf-d4d1eb7a6358.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-fiesta-mango/"
   },
@@ -247,7 +247,7 @@
     "name": "Ultra Watermelon",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-watermelon.png",
+    "image": "cans/ultra-watermelon.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/b3c1cb47-f9fa-4a4d-8bb2-6e85b8202c24.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-watermelon/"
   },
@@ -256,7 +256,7 @@
     "name": "Ultra Rosá",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-rosa.png",
+    "image": "cans/ultra-rosa.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/9c11c06a-b4f8-4222-a421-6b47bef708a3.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-rosa/"
   },
@@ -265,7 +265,7 @@
     "name": "Ultra Red",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-red.png",
+    "image": "cans/ultra-red.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/7d4a4495-e1bd-4176-a109-b2bba30e152b.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-red/"
   },
@@ -274,7 +274,7 @@
     "name": "Ultra Blue",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-blue.png",
+    "image": "cans/ultra-blue.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/5381911d-628e-4506-a639-eceaded770d0.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-blue/"
   },
@@ -283,7 +283,7 @@
     "name": "Ultra Black",
     "line": "Zero Sugar Ultra",
     "lineKey": "ultra",
-    "image": "cans/ultra-black.png",
+    "image": "cans/ultra-black.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/7df3c66e-170c-4479-96d7-d9261f6393c0.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/zero-sugar/ultra-black/"
   },
@@ -292,7 +292,7 @@
     "name": "Dubai Chocolate",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/dubai-chocolate.png",
+    "image": "cans/dubai-chocolate.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/8c8f247a-98e1-4023-a6d1-6852f36f6a12.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/dubai-chocolate/"
   },
@@ -301,7 +301,7 @@
     "name": "Mean Bean",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/mean-bean.png",
+    "image": "cans/mean-bean.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/1ab2af13-698a-4cbd-b066-1b97b0e53370.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/mean-bean/"
   },
@@ -310,7 +310,7 @@
     "name": "Loca Moca",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/loca-moca.png",
+    "image": "cans/loca-moca.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/b956c776-0858-4b8f-84e6-93c5c6f18f52.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/loca-moca/"
   },
@@ -319,7 +319,7 @@
     "name": "Salted Caramel",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/salted-caramel.png",
+    "image": "cans/salted-caramel.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/ac2c0d32-97c7-4c48-8cca-269e43f22a42.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/salted-caramel/"
   },
@@ -328,7 +328,7 @@
     "name": "Café Latte",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/cafe-latte.png",
+    "image": "cans/cafe-latte.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/9e69f70f-8efa-4a95-999d-9b6a9b0e37e8.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/cafe-latte/"
   },
@@ -337,7 +337,7 @@
     "name": "Irish Crème",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/irish-creme.png",
+    "image": "cans/irish-creme.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/6453e22e-627b-4ebc-9c3f-63a46d39d748.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/irish-creme/"
   },
@@ -346,7 +346,7 @@
     "name": "Killer Brew Loca Moca",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/killer-brew-loca-moca.png",
+    "image": "cans/killer-brew-loca-moca.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/4a1b2252-4a4c-4ab5-9f66-f7e50fb2b68f.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/killer-brew-loca-moca/"
   },
@@ -355,7 +355,7 @@
     "name": "Killer Brew Mean Bean",
     "line": "Java Monster",
     "lineKey": "coffee",
-    "image": "cans/killer-brew-mean-bean.png",
+    "image": "cans/killer-brew-mean-bean.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/57deb182-fbcf-4b91-a5c5-45c4bc4f92b8.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/java-monster/killer-brew-mean-bean/"
   },
@@ -364,7 +364,7 @@
     "name": "Mango Loco",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/mango-loco.png",
+    "image": "cans/mango-loco.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/d9229f7a-7d32-4ad9-8ee8-df40b58cde7b.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/mango-loco/"
   },
@@ -373,7 +373,7 @@
     "name": "Voodoo Grape",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/voodoo-grape.png",
+    "image": "cans/voodoo-grape.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/853f2d57-7852-4b73-bc0c-419a5fa9897a.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/voodoo-grape/"
   },
@@ -382,7 +382,7 @@
     "name": "Strawberry Lemonade",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/strawberry-lemonade.png",
+    "image": "cans/strawberry-lemonade.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/12d06861-08de-4db3-86a3-c64ba1949cac.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/strawberry-lemonade/"
   },
@@ -391,7 +391,7 @@
     "name": "Pacific Punch",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/pacific-punch.png",
+    "image": "cans/pacific-punch.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/077196b8-3934-4aca-89c4-4826a4047c7c.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/pacific-punch/"
   },
@@ -400,7 +400,7 @@
     "name": "Viking Berry",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/viking-berry.png",
+    "image": "cans/viking-berry.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/78a3ede8-6f73-4ffd-9b03-e77990be30b5.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/viking-berry/"
   },
@@ -409,7 +409,7 @@
     "name": "Bad Apple",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/bad-apple.png",
+    "image": "cans/bad-apple.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/00caa0b5-426b-45a7-8e68-a7c7ef46e224.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/bad-apple/"
   },
@@ -418,7 +418,7 @@
     "name": "Rio Punch",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/rio-punch.png",
+    "image": "cans/rio-punch.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/768f6319-c84c-4093-a805-0bb4eeb1cbc2.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/rio-punch/"
   },
@@ -427,7 +427,7 @@
     "name": "Pipeline Punch",
     "line": "Juice Monster",
     "lineKey": "juice",
-    "image": "cans/pipeline-punch.png",
+    "image": "cans/pipeline-punch.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/2a7484ad-e9d6-4972-b5ff-46269bb78f35.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/juice-monster/pipeline-punch/"
   },
@@ -436,7 +436,7 @@
     "name": "Tea + Lemonade",
     "line": "Rehab Monster",
     "lineKey": "rehab",
-    "image": "cans/tea-lemonade.png",
+    "image": "cans/tea-lemonade.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/925041c9-688b-4847-9ebe-43b51dfeace7.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/rehab-monster/tea-lemonade/"
   },
@@ -445,7 +445,7 @@
     "name": "Peach Tea",
     "line": "Rehab Monster",
     "lineKey": "rehab",
-    "image": "cans/peach-tea.png",
+    "image": "cans/peach-tea.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/22814aa7-f58f-49e7-b3c5-e48b3346b296.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/rehab-monster/peach-tea/"
   },
@@ -454,7 +454,7 @@
     "name": "Wild Berry Tea",
     "line": "Rehab Monster",
     "lineKey": "rehab",
-    "image": "cans/wild-berry.png",
+    "image": "cans/wild-berry.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/b994ec4a-f594-402f-a60b-ff38df192162.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/rehab-monster/wild-berry/"
   },
@@ -463,7 +463,7 @@
     "name": "Green Tea",
     "line": "Rehab Monster",
     "lineKey": "rehab",
-    "image": "cans/green-tea.png",
+    "image": "cans/green-tea.webp",
     "sourceImage": "https://web-assests.monsterenergy.com/mnst/cf930588-1c93-46b1-9a3c-7c8700be67d5.png",
     "url": "https://www.monsterenergy.com/en-us/energy-drinks/rehab-monster/green-tea/"
   }
