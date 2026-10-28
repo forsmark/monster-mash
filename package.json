@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "test": "vitest run",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "icon": "python3 scripts/make-icon.py"
   },
   "dependencies": {
     "@fontsource/anton": "^5.3.0",
@@ -28,5 +29,6 @@
     "typescript": "~6.0.2",
     "vite": "^8.3.0",
     "vitest": "^5.0.3"
-  }
+  },
+  "packageManager": "pnpm@12.15.0"
 }

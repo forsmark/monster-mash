@@ -16,13 +16,16 @@ Small personal website. Visitors rank Monster Energy flavors through head-to-hea
 React, TypeScript, Vite, `motion` for animation, Vitest for the ranking logic.
 
 ```sh
-npm install
-npm run dev     # local dev server
-npm test        # ranking logic tests
-npm run build   # static build in dist/
+pnpm install
+pnpm dev        # local dev server
+pnpm test       # ranking logic tests
+pnpm build      # static build in dist/
+pnpm icon       # redraw public/icon.png (needs Python with Pillow)
 ```
 
 `.github/workflows/deploy.yml` builds and deploys on every push to `main`. In the repo settings, set Pages > Source to "GitHub Actions". The build uses a relative base path, so it works under any repo name.
+
+It also runs on olympus-edge, behind the portal's sign-in, at https://olympus.tailf4d52f.ts.net/monster-mash/. The `Containerfile` builds the site and serves it with busybox `httpd` on port 3000, with `/healthz` for the health check and `/icon.png` for the home screen. With `APP_BASE` set (the platform passes `/monster-mash/`), the build also links the platform's per-user web manifest. State stays in the browser either way.
 
 ## Ranking
 
